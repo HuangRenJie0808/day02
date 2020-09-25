@@ -1,2 +1,4 @@
 #忽略文件node
 node
+#忽略CSS文件
+*.css
